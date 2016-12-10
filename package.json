@@ -1,0 +1,31 @@
+{
+  "name": "js-app-utils",
+  "version": "0.1.0",
+  "description": "JS Application Utils",
+  "main": "jsutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasensio/js-app-utils.git"
+  },
+  "keywords": [
+    "js",
+    "app",
+    "utils"
+  ],
+  "author": "Rodrigo Asensio - @rasensio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasensio/js-app-utils/issues"
+  },
+  "homepage": "https://github.com/rasensio/js-app-utils#readme",
+  "jspm": {
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
